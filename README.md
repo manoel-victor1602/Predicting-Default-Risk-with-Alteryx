@@ -19,8 +19,7 @@ I decided to remove the columns Concurrent-Credits, Guarantors, No-of-dependents
 
 1- Logistic Regression
 
-Coefficients |                                            |
-             | Estimate | Std. Error | Z-value | Pr(>|z|) |
+Coefficients | Estimate | Std. Error | Z-value | Pr(>|z|) |
 -------------|----------|------------|---------|----------|
 (Intercept)	 |-29.621.914 |	6,84E+02 |	-43.326|	1,00E-05	*** | 
 Account.BalanceSome Balance |	-16.053.228 |	3,07E+02 |-52.344 |	1.65e-07	*** |
