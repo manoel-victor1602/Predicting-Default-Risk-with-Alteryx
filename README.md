@@ -11,7 +11,7 @@ The data needed to inform those decisions are 2 different sets of data, 14 colum
 
 # 2- Building the Training Set
 
-<img src=”/field_summary_1.png”>
+<img src=”https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/field_summary_1.png”>
 ![alt text](http://url/to/field_summary_2.png)
 
 I decided to remove the columns Concurrent-Credits, Guarantors, No-of-dependents, Foreign-Worker for their low variability, Duration-in-Current-address for having over 69% of missing values and Telephone for not giving any information about the customer’s creditworthiness. It was decided to impute the median in the missing values of the Age-Years attribute for being a whole number.
