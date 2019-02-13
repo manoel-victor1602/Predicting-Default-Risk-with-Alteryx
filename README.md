@@ -38,7 +38,7 @@ The Decision Tree model achieved an overall accuracy of 74.67% in the validation
 
 ## 3. Random Forest
 
-<img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/Feature Importance RF.png">
+<img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/Feature%20importance%20RF.png">
 
 Differently of the results of the single Decision Tree model, the Random Forest approach reached that the three most important variables are Credit Amount, Duration of Credit Month and Account Balance.
 
