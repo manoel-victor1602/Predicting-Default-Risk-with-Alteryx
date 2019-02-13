@@ -16,7 +16,7 @@ I decided to remove the columns Concurrent-Credits, Guarantors, No-of-dependents
 
 # 3- Training the Classification Models
 
-- 1. Logistic Regression
+## 1. Logistic Regression
 
 <img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/Coefficients.png">
 
@@ -26,7 +26,7 @@ The Logistic Regression Model achieved an overall accuracy of 76%. The model is 
 
 <img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/CM of LR Model.png">
 
-- 2. Decision Tree
+## 2. Decision Tree
 
 <img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/feature importance DT.png">
 
@@ -36,7 +36,7 @@ The Decision Tree model achieved an overall accuracy of 74.67% in the validation
 
 <img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/CM of DT Model.png">
 
-- 3. Random Forest
+## 3. Random Forest
 
 <img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/Feature Importance RF.png">
 
@@ -46,7 +46,7 @@ The model achieved an overall accuracy of 78.67% and it is the one chosen be use
 
 <img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/CM of RF Model.png">
 
-- 4. Boosted Model
+## 4. Boosted Model
 
 <img src="https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/Variable Importance Boosted.png">
 
